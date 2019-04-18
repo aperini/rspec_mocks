@@ -17,4 +17,10 @@ bin/rspec --init
 gem search -l rspec
 
 ### Execute tests
-bin/rspec --format doc
+rspec --format doc --color
+
+### Relish : RSpec Mocks 3.8
+
+Examples extracted from:
+
+https://relishapp.com/rspec/rspec-mocks/v/3-8/docs

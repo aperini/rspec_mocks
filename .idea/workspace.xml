@@ -1,56 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ChangeListManager">
-    <list default="true" id="bfd01537-9a04-4243-8730-1f5fec6ad24e" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="SHOW_DIALOG" value="false" />
-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
-    <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/rspec_test@Bowling_score_with_no_strikes_or_spares_sums_the_pin_count_for_each_roll__rspec_test.rcov" NAME="Bowling#score with no strikes or spares sums the pin count for each roll: rspec_test Coverage Results" MODIFIED="1555082229201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_test" />
-    <SUITE FILE_PATH="coverage/rspec_test@Run_spec__bowling_spec___rspec_test.rcov" NAME="Run spec 'bowling_spec': rspec_test Coverage Results" MODIFIED="1555082534163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_test" />
-    <SUITE FILE_PATH="coverage/rspec_test@Bowling_score_with_no_strikes_or_spares_with_two_spares__rspec_test.rcov" NAME="Bowling#score with no strikes or spares with two spares: rspec_test Coverage Results" MODIFIED="1555082205471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_test" />
-    <SUITE FILE_PATH="coverage/rspec_test@Bowling_score__rspec_test.rcov" NAME="Bowling#score: rspec_test Coverage Results" MODIFIED="1555080439155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_test" />
-    <SUITE FILE_PATH="coverage/rspec_test@Bowling_score_with_no_strikes_or_spares__rspec_test.rcov" NAME="Bowling#score with no strikes or spares: rspec_test Coverage Results" MODIFIED="1555082082931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_test" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spec/bowling_spec.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="147">
-                <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/spec/spec_helper.rb" />
-        <option value="$PROJECT_DIR$/.rspec" />
-        <option value="$PROJECT_DIR$/lib/bowling.rb" />
-        <option value="$PROJECT_DIR$/spec/bowling_spec.rb" />
-        <option value="$PROJECT_DIR$/README.md" />
-      </list>
-    </option>
+    <SUITE FILE_PATH="coverage/rspec_mocks@A_test_double__rspec_mocks.rcov" NAME="A test double: rspec_mocks Coverage Results" MODIFIED="1556024428025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
+    <SUITE FILE_PATH="coverage/rspec_mocks@Run_spec__bowling_spec___rspec_mocks.rcov" NAME="Run spec 'bowling_spec': rspec_mocks Coverage Results" MODIFIED="1556024501447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
+    <SUITE FILE_PATH="coverage/rspec_mocks@Messages_Allowing_allows_to_receive_a_message_ans_returning_nil_by_default__rspec_mocks.rcov" NAME="Messages Allowing allows to receive a message ans returning nil by default: rspec_mocks Coverage Results" MODIFIED="1556024435738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
+    <SUITE FILE_PATH="coverage/rspec_mocks@Run_spec__double_spec___rspec_mocks.rcov" NAME="Run spec 'double_spec': rspec_mocks Coverage Results" MODIFIED="1556024530550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
+    <SUITE FILE_PATH="coverage/rspec_mocks@All_specs_in_rspec_mocks__rspec_mocks.rcov" NAME="All specs in rspec_mocks: rspec_mocks Coverage Results" MODIFIED="1556024481371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
+    <SUITE FILE_PATH="coverage/rspec_mocks@All_specs_in_spec__rspec_mocks.rcov" NAME="All specs in spec: rspec_mocks Coverage Results" MODIFIED="1556024491281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
+    <SUITE FILE_PATH="coverage/rspec_mocks@spec_helper.rcov" NAME="spec_helper Coverage Results" MODIFIED="1556024516608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spec" MODULE_NAME="rspec_mocks" />
+    <SUITE FILE_PATH="coverage/rspec_mocks@A_bowling_score__rspec_mocks.rcov" NAME="A bowling score: rspec_mocks Coverage Results" MODIFIED="1556024419370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1911" />
@@ -58,67 +16,16 @@
     <option name="width" value="1938" />
     <option name="height" value="1098" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="rspec_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rspec_test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rspec_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rspec_test" type="462c0819:PsiDirectoryNode" />
-              <item name=".bundle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rspec_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rspec_test" type="462c0819:PsiDirectoryNode" />
-              <item name="bin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rspec_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rspec_test" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rspec_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rspec_test" type="462c0819:PsiDirectoryNode" />
-              <item name="spec" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="RSpec.Run spec 'bowling_spec': rspec_test">
-    <configuration name="Bowling#score with no strikes or spares sums the pin count for each roll: rspec_test" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
-      <module name="rspec_test" />
+  <component name="RunManager" selected="RSpec.Run spec 'double_spec': rspec_mocks">
+    <configuration name="All specs in rspec_mocks: rspec_mocks" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <module name="rspec_mocks" />
       <predefined_log_file enabled="true" id="RUBY_RSPEC" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
@@ -131,12 +38,12 @@
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/bowling_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="$MODULE_DIR$" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="'**/*_spec.rb'" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Bowling#score with no strikes or spares sums the pin count for each roll" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="ALL_IN_FOLDER" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
@@ -146,8 +53,8 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Bowling#score with no strikes or spares with two spares: rspec_test" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
-      <module name="rspec_test" />
+    <configuration name="All specs in spec: rspec_mocks" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <module name="rspec_mocks" />
       <predefined_log_file enabled="true" id="RUBY_RSPEC" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
@@ -160,12 +67,12 @@
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/bowling_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="$MODULE_DIR$/spec" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="'**/*_spec.rb'" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Bowling#score with no strikes or spares with two spares" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="ALL_IN_FOLDER" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
@@ -175,66 +82,8 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Bowling#score with no strikes or spares: rspec_test" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
-      <module name="rspec_test" />
-      <predefined_log_file enabled="true" id="RUBY_RSPEC" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/bowling_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="'**/*_spec.rb'" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Bowling#score with no strikes or spares" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Bowling#score: rspec_test" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
-      <module name="rspec_test" />
-      <predefined_log_file enabled="true" id="RUBY_RSPEC" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/bowling_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="'**/*_spec.rb'" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Bowling#score" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Run spec 'bowling_spec': rspec_test" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
-      <module name="rspec_test" />
+    <configuration name="Run spec 'bowling_spec': rspec_mocks" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <module name="rspec_mocks" />
       <predefined_log_file enabled="true" id="RUBY_RSPEC" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
@@ -262,154 +111,57 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <method v="2" />
     </configuration>
+    <configuration name="Run spec 'double_spec': rspec_mocks" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <module name="rspec_mocks" />
+      <predefined_log_file enabled="true" id="RUBY_RSPEC" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/double_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="'**/*_spec.rb'" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spec_helper" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="rspec_mocks" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/spec" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/spec_helper.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="RSpec.Run spec 'bowling_spec': rspec_test" />
-        <item itemvalue="RSpec.Bowling#score with no strikes or spares sums the pin count for each roll: rspec_test" />
-        <item itemvalue="RSpec.Bowling#score with no strikes or spares with two spares: rspec_test" />
-        <item itemvalue="RSpec.Bowling#score with no strikes or spares: rspec_test" />
-        <item itemvalue="RSpec.Bowling#score: rspec_test" />
+        <item itemvalue="RSpec.Run spec 'double_spec': rspec_mocks" />
+        <item itemvalue="Ruby.spec_helper" />
+        <item itemvalue="RSpec.All specs in spec: rspec_mocks" />
+        <item itemvalue="RSpec.Run spec 'bowling_spec': rspec_mocks" />
+        <item itemvalue="RSpec.All specs in rspec_mocks: rspec_mocks" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="bfd01537-9a04-4243-8730-1f5fec6ad24e" name="Default Changelist" comment="" />
-      <created>1555075508627</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1555075508627</updated>
-      <workItem from="1555075509869" duration="5051000" />
-    </task>
-    <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="Bowling#score__rspec_test - 2019.04.12 at 10h 47m 22s.xml">
-      <configuration name="Bowling#score: rspec_test" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Run_spec_'bowling_spec'__rspec_test - 2019.04.12 at 10h 58m 53s.xml">
-      <configuration name="Run spec 'bowling_spec': rspec_test" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Run_spec_'bowling_spec'__rspec_test - 2019.04.12 at 11h 05m 04s.xml">
-      <configuration name="Run spec 'bowling_spec': rspec_test" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Run_spec_'bowling_spec'__rspec_test - 2019.04.12 at 11h 05m 23s.xml">
-      <configuration name="Run spec 'bowling_spec': rspec_test" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Bowling#score_with_no_strikes_or_spares__rspec_test - 2019.04.12 at 11h 14m 45s.xml">
-      <configuration name="Bowling#score with no strikes or spares: rspec_test" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Bowling#score_with_no_strikes_or_spares_with_two_spares__rspec_test - 2019.04.12 at 11h 15m 19s.xml">
-      <configuration name="Bowling#score with no strikes or spares with two spares: rspec_test" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Bowling#score_with_no_strikes_or_spares_with_two_spares__rspec_test - 2019.04.12 at 11h 16m 37s.xml">
-      <configuration name="Bowling#score with no strikes or spares with two spares: rspec_test" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Bowling#score_with_no_strikes_or_spares_with_two_spares__rspec_test - 2019.04.12 at 11h 16m 47s.xml">
-      <configuration name="Bowling#score with no strikes or spares with two spares: rspec_test" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Bowling#score_with_no_strikes_or_spares_sums_the_pin_count_for_each_roll__rspec_test - 2019.04.12 at 11h 17m 11s.xml">
-      <configuration name="Bowling#score with no strikes or spares sums the pin count for each roll: rspec_test" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Run_spec_'bowling_spec'__rspec_test - 2019.04.12 at 11h 22m 16s.xml">
-      <configuration name="Run spec 'bowling_spec': rspec_test" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5051000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="1911" y="-9" width="1938" height="1098" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Inspection Results" weight="0.32976446" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32976446" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.bundle/config">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/rspec">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/dev/rubies/Ruby25/lib/ruby/gems/2.5.0/gems/rspec-core-3.8.0/lib/rspec/core/example_group.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="157" column="6" selection-start-line="157" selection-start-column="6" selection-end-line="157" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.rspec">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" lean-forward="true" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/bowling.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spec/bowling_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="147">
-            <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
