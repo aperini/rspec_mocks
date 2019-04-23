@@ -1,7 +1,7 @@
 describe 'A test double' do
 
   # Doubles are strict by default
-  it 'raises errors when 2.allowing_messages not allowed or expected are received' do
+  it 'raises errors when messages not allowed or expected are received' do
     expect {
       dbl = double('Something')
 

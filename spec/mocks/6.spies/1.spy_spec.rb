@@ -1,4 +1,4 @@
-describe 'A spy - have_received' do
+describe 'spy - have_received' do
 
   it 'passes when the message has been received' do
     # given

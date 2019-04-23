@@ -1,17 +1,17 @@
+# A partial double is an extension of a real object
 describe 'A partial double' do
 
   context 'A very simple one' do
     my_string = 'a string'
+
     before do
-      # this overrides the length method
+      # redefines a method
       allow(my_string).to receive(:length).and_return(500)
     end
 
-    it 'redefines the specified methods' do
+    it 'redefines only the specified methods' do
       expect(my_string.length).to eq(500)
-    end
-
-    it 'does not effect other methods' do
+      # reverse wasn't redefined
       expect(my_string.reverse).to eq('gnirts a')
     end
   end
@@ -25,12 +25,22 @@ describe 'A partial double' do
     end
 
     it 'redefines a method' do
+      # given
       allow(User).to receive(:find).and_return(:redefined)
-      expect(User.find(3)).to eq(:redefined)
+
+      # when
+      found = User.find(3)
+
+      # then
+      expect(found).to eq(:redefined)
     end
 
-    it 'restores the redefined method after the example completes' do
-      expect(User.find(3)).to eq(:original_return_value)
+    it 'restores the redefined method after the previous example completes' do
+      # when
+      found = User.find(3)
+
+      # then
+      expect(found).to eq(:original_return_value)
     end
   end
 end
