@@ -9,32 +9,50 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/rspec_mocks@spy___have_received_passes_when_the_message_has_been_received__rspec_mocks.rcov" NAME="spy - have_received passes when the message has been received: rspec_mocks Coverage Results" MODIFIED="1556030226833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
+    <SUITE FILE_PATH="coverage/rspec_mocks@spy___have_received_passes_when_the_message_has_been_received__rspec_mocks.rcov" NAME="spy - have_received passes when the message has been received: rspec_mocks Coverage Results" MODIFIED="1556043611866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
+    <SUITE FILE_PATH="coverage/rspec_mocks@A_spy_x_partial_double_spy_as_spy__passes_when_expectations__optionals__are_met__rspec_mocks.rcov" NAME="A spy x partial double spy as spy: passes when expectations (optionals) are met: rspec_mocks Coverage Results" MODIFIED="1556114420578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
     <SUITE FILE_PATH="coverage/rspec_mocks@Run_spec__double_spec___rspec_mocks__1_.rcov" NAME="Run spec 'double_spec': rspec_mocks (1) Coverage Results" MODIFIED="1556024809928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
     <SUITE FILE_PATH="coverage/rspec_mocks@Run_spec__bowling_spec___rspec_mocks.rcov" NAME="Run spec 'bowling_spec': rspec_mocks Coverage Results" MODIFIED="1556024501447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
     <SUITE FILE_PATH="coverage/rspec_mocks@A_test_double__rspec_mocks.rcov" NAME="A test double: rspec_mocks Coverage Results" MODIFIED="1556026188826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
+    <SUITE FILE_PATH="coverage/rspec_mocks@Run_spec__receive_messages_spec___rspec_mocks.rcov" NAME="Run spec 'receive_messages_spec': rspec_mocks Coverage Results" MODIFIED="1556042128664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
+    <SUITE FILE_PATH="coverage/rspec_mocks@Run_spec__1_spy_spec___rspec_mocks.rcov" NAME="Run spec '1.spy_spec': rspec_mocks Coverage Results" MODIFIED="1556043201492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
     <SUITE FILE_PATH="coverage/rspec_mocks@Run_spec__unfulfilled_message_expectation_spec___rspec_mocks.rcov" NAME="Run spec 'unfulfilled_message_expectation_spec': rspec_mocks Coverage Results" MODIFIED="1556025661470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
     <SUITE FILE_PATH="coverage/rspec_mocks@Receiving_messages_configures_return_values_for_the_provided_messages__rspec_mocks.rcov" NAME="Receiving messages configures return values for the provided messages: rspec_mocks Coverage Results" MODIFIED="1556025500847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
+    <SUITE FILE_PATH="coverage/rspec_mocks@Run_spec__verified_doubles_spec___rspec_mocks.rcov" NAME="Run spec 'verified_doubles_spec': rspec_mocks Coverage Results" MODIFIED="1556048059931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
+    <SUITE FILE_PATH="coverage/rspec_mocks@User_suspend___rspec_mocks.rcov" NAME="User#suspend!: rspec_mocks Coverage Results" MODIFIED="1556048072172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
+    <SUITE FILE_PATH="coverage/rspec_mocks@User_suspend__notifies_the_console__rspec_mocks.rcov" NAME="User#suspend! notifies the console: rspec_mocks Coverage Results" MODIFIED="1556048114254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
+    <SUITE FILE_PATH="coverage/rspec_mocks@User_suspend___rspec_mocks__1_.rcov" NAME="User#suspend!: rspec_mocks (1) Coverage Results" MODIFIED="1556048688756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
     <SUITE FILE_PATH="coverage/rspec_mocks@Run_spec__fulfilled_message_expectation_spec___rspec_mocks.rcov" NAME="Run spec 'fulfilled_message_expectation_spec': rspec_mocks Coverage Results" MODIFIED="1556030142189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
+    <SUITE FILE_PATH="coverage/rspec_mocks@Run_spec__allow_message_spec___rspec_mocks.rcov" NAME="Run spec 'allow_message_spec': rspec_mocks Coverage Results" MODIFIED="1556042237605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
+    <SUITE FILE_PATH="coverage/rspec_mocks@User_suspend___rspec_mocks__2_.rcov" NAME="User#suspend!: rspec_mocks (2) Coverage Results" MODIFIED="1556053114422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
     <SUITE FILE_PATH="coverage/rspec_mocks@Messages_Allowing_allows_to_receive_a_message_ans_returning_nil_by_default__rspec_mocks.rcov" NAME="Messages Allowing allows to receive a message ans returning nil by default: rspec_mocks Coverage Results" MODIFIED="1556024435738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
+    <SUITE FILE_PATH="coverage/rspec_mocks@A_spy_x_partial_double__rspec_mocks.rcov" NAME="A spy x partial double: rspec_mocks Coverage Results" MODIFIED="1556114331332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
+    <SUITE FILE_PATH="coverage/rspec_mocks@Run_spec__3_object_doubles_spec___rspec_mocks.rcov" NAME="Run spec '3.object_doubles_spec': rspec_mocks Coverage Results" MODIFIED="1556052868016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
     <SUITE FILE_PATH="coverage/rspec_mocks@A_bowling_score__rspec_mocks.rcov" NAME="A bowling score: rspec_mocks Coverage Results" MODIFIED="1556024419370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
     <SUITE FILE_PATH="coverage/rspec_mocks@Allowing_messages_returns_nil_from_allowed_messages__rspec_mocks.rcov" NAME="Allowing messages returns nil from allowed messages: rspec_mocks Coverage Results" MODIFIED="1556025507736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
-    <SUITE FILE_PATH="coverage/rspec_mocks@Run_spec__as_null_object_spec___rspec_mocks.rcov" NAME="Run spec 'as_null_object_spec': rspec_mocks Coverage Results" MODIFIED="1556026026743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
-    <SUITE FILE_PATH="coverage/rspec_mocks@spy___have_received__rspec_mocks.rcov" NAME="spy - have_received: rspec_mocks Coverage Results" MODIFIED="1556031130959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
+    <SUITE FILE_PATH="coverage/rspec_mocks@Run_spec__as_null_object_spec___rspec_mocks.rcov" NAME="Run spec 'as_null_object_spec': rspec_mocks Coverage Results" MODIFIED="1556042856928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
+    <SUITE FILE_PATH="coverage/rspec_mocks@User_suspend__notifies_the_console__rspec_mocks__2_.rcov" NAME="User#suspend! notifies the console: rspec_mocks (2) Coverage Results" MODIFIED="1556053090828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
+    <SUITE FILE_PATH="coverage/rspec_mocks@spy___have_received__rspec_mocks.rcov" NAME="spy - have_received: rspec_mocks Coverage Results" MODIFIED="1556043482669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
+    <SUITE FILE_PATH="coverage/rspec_mocks@verified_doubles.rcov" NAME="7 Coverage Results" MODIFIED="1556047604539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:\Users\gen06857\projets\rspec_mocks\spec\mocks\7.verified_doubles" MODULE_NAME="rspec_mocks" />
     <SUITE FILE_PATH="coverage/rspec_mocks@Spy_constraints__rspec_mocks.rcov" NAME="Spy constraints: rspec_mocks Coverage Results" MODIFIED="1556032229048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
+    <SUITE FILE_PATH="coverage/rspec_mocks@A_spy_x_partial_double_double__passes_when_the_expectation_is_met__rspec_mocks.rcov" NAME="A spy x partial double double: passes when the expectation is met: rspec_mocks Coverage Results" MODIFIED="1556114173036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
     <SUITE FILE_PATH="coverage/rspec_mocks@A_partial_double_restores_the_redefined_method_after_the_example_completes__rspec_mocks.rcov" NAME="A partial double restores the redefined method after the example completes: rspec_mocks Coverage Results" MODIFIED="1556027367732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
-    <SUITE FILE_PATH="coverage/rspec_mocks@A_partial_double__rspec_mocks.rcov" NAME="A partial double: rspec_mocks Coverage Results" MODIFIED="1556027636119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
+    <SUITE FILE_PATH="coverage/rspec_mocks@A_spy_x_partial_double_spy_as_double__passes_when_the_expectation_is_met__rspec_mocks.rcov" NAME="A spy x partial double spy as double: passes when the expectation is met: rspec_mocks Coverage Results" MODIFIED="1556114322708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
+    <SUITE FILE_PATH="coverage/rspec_mocks@A_partial_double__rspec_mocks.rcov" NAME="A partial double: rspec_mocks Coverage Results" MODIFIED="1556043583697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
     <SUITE FILE_PATH="coverage/rspec_mocks@Spy_constraints_fails_when_an_order_constraint_is_not_satisifed__rspec_mocks.rcov" NAME="Spy constraints fails when an order constraint is not satisifed: rspec_mocks Coverage Results" MODIFIED="1556031698771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
     <SUITE FILE_PATH="coverage/rspec_mocks@Run_spec__3_setting_constraints_spec___rspec_mocks.rcov" NAME="Run spec '3.setting_constraints_spec': rspec_mocks Coverage Results" MODIFIED="1556032199174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
     <SUITE FILE_PATH="coverage/rspec_mocks@All_specs_in_spec__rspec_mocks.rcov" NAME="All specs in spec: rspec_mocks Coverage Results" MODIFIED="1556024491281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
-    <SUITE FILE_PATH="coverage/rspec_mocks@Run_spec__partial_double_spec___rspec_mocks.rcov" NAME="Run spec 'partial_double_spec': rspec_mocks Coverage Results" MODIFIED="1556027203133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
+    <SUITE FILE_PATH="coverage/rspec_mocks@Run_spec__partial_double_spec___rspec_mocks.rcov" NAME="Run spec 'partial_double_spec': rspec_mocks Coverage Results" MODIFIED="1556042732531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
     <SUITE FILE_PATH="coverage/rspec_mocks@spy_x_partial_double__rspec_mocks.rcov" NAME="spy x partial double: rspec_mocks Coverage Results" MODIFIED="1556031297334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
     <SUITE FILE_PATH="coverage/rspec_mocks@A_partial_double_A_very_simple_one__rspec_mocks.rcov" NAME="A partial double A very simple one: rspec_mocks Coverage Results" MODIFIED="1556027578923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
     <SUITE FILE_PATH="coverage/rspec_mocks@Run_spec__double_spec___rspec_mocks.rcov" NAME="Run spec 'double_spec': rspec_mocks Coverage Results" MODIFIED="1556024530550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
     <SUITE FILE_PATH="coverage/rspec_mocks@A_fulfilled_positive_message_expectation_passes__rspec_mocks.rcov" NAME="A fulfilled positive message expectation passes: rspec_mocks Coverage Results" MODIFIED="1556030151361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
     <SUITE FILE_PATH="coverage/rspec_mocks@All_specs_in_rspec_mocks__rspec_mocks.rcov" NAME="All specs in rspec_mocks: rspec_mocks Coverage Results" MODIFIED="1556024481371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
     <SUITE FILE_PATH="coverage/rspec_mocks@Run_spec__spy_spec___rspec_mocks.rcov" NAME="Run spec 'spy_spec': rspec_mocks Coverage Results" MODIFIED="1556028916744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
+    <SUITE FILE_PATH="coverage/rspec_mocks@Run_spec__2_class_doubles_spec___rspec_mocks.rcov" NAME="Run spec '2.class_doubles_spec': rspec_mocks Coverage Results" MODIFIED="1556048668403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
+    <SUITE FILE_PATH="coverage/rspec_mocks@A_spy___have_received_passes_when_the_message_has_been_received__rspec_mocks.rcov" NAME="A spy - have_received passes when the message has been received: rspec_mocks Coverage Results" MODIFIED="1556043334782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
     <SUITE FILE_PATH="coverage/rspec_mocks@spec_helper.rcov" NAME="spec_helper Coverage Results" MODIFIED="1556024516608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spec" MODULE_NAME="rspec_mocks" />
+    <SUITE FILE_PATH="coverage/rspec_mocks@User_suspend__notifies_the_console__rspec_mocks__1_.rcov" NAME="User#suspend! notifies the console: rspec_mocks (1) Coverage Results" MODIFIED="1556051175411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
     <SUITE FILE_PATH="coverage/rspec_mocks@spy___have_received_passes_when_the_expectation_is_met__rspec_mocks.rcov" NAME="spy - have_received passes when the expectation is met: rspec_mocks Coverage Results" MODIFIED="1556030520750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
     <SUITE FILE_PATH="coverage/rspec_mocks@Spy_constraints_fails_when_a_count_constraint_is_not_satisfied__rspec_mocks.rcov" NAME="Spy constraints fails when a count constraint is not satisfied: rspec_mocks Coverage Results" MODIFIED="1556031669364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
     <SUITE FILE_PATH="coverage/rspec_mocks@Spy_constraints_passes_when_an_order_constraint_is_satisifed__rspec_mocks.rcov" NAME="Spy constraints passes when an order constraint is satisifed: rspec_mocks Coverage Results" MODIFIED="1556031872274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rspec_mocks" />
@@ -42,10 +60,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spec/mocks/6.spies/1.spy_spec.rb">
+        <entry file="file://$PROJECT_DIR$/spec/mocks/7.verified_doubles/3.object_doubles_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="12" selection-start-column="12" selection-end-column="12" />
+            <state relative-caret-position="231">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -53,29 +71,71 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spec/mocks/6.spies/3.setting_constraints_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="483">
-                <caret line="23" selection-start-line="23" selection-end-line="23" />
-              </first_editor>
-              <second_editor />
+            <state relative-caret-position="63">
+              <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spec/mocks/6.spies/2.partial_double_spy_spec.rb">
+        <entry file="file://$PROJECT_DIR$/spec/mocks/6.spies/1.spy_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="12" selection-start-column="12" selection-end-column="12" />
+              <caret column="72" selection-start-column="72" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spec/mocks/6.spies/2.partial_double_spy_spec.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="519">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/mocks/3.expecting_messages/fulfilled_message_expectation_spec.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://C:/dev/rubies/Ruby25/lib/ruby/gems/2.5.0/gems/rspec-mocks-3.8.0/lib/rspec/mocks/syntax.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="114" column="32" selection-start-line="114" selection-start-column="32" selection-end-line="114" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/mocks/7.verified_doubles/1.instance_doubles_spec.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/mocks/7.verified_doubles/2.class_doubles_spec.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="82" selection-start-column="82" selection-end-column="82" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/mocks/4.partial_test_doubles/partial_double_spec.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-6">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -107,14 +167,27 @@
         <option value="$PROJECT_DIR$/spec/messages_spec.rb" />
         <option value="$PROJECT_DIR$/spec/mocks/null_object_doubles/as_null_object_spec.rb" />
         <option value="$PROJECT_DIR$/spec/mocks/partial_test_doubles/partial_double_spec.rb" />
-        <option value="$PROJECT_DIR$/spec/mocks/3.expecting_messages/fulfilled_message_expectation_spec.rb" />
         <option value="$PROJECT_DIR$/spec/mocks/6.spies/spy_spec.rb" />
         <option value="$PROJECT_DIR$/spec/mocks/6.spies/partial_double_spy_spec.rb" />
-        <option value="$PROJECT_DIR$/spec/mocks/5.null_object_doubles/as_null_object_spec.rb" />
-        <option value="$PROJECT_DIR$/spec/mocks/6.spies/2.partial_double_spy_spec.rb" />
-        <option value="$PROJECT_DIR$/spec/mocks/6.spies/1.spy_spec.rb" />
         <option value="$PROJECT_DIR$/spec/mocks/6.spies/3.setting_constraints_spec.rb" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/spec/mocks/1.test_doubles/double_spec.rb" />
+        <option value="$PROJECT_DIR$/spec/mocks/3.expecting_messages/fulfilled_message_expectation_spec.rb" />
+        <option value="$PROJECT_DIR$/spec/mocks/2.allowing_messages/allow_message_spec.rb" />
+        <option value="$PROJECT_DIR$/spec/mocks/2.allowing_messages/receive_messages_spec.rb" />
+        <option value="$PROJECT_DIR$/spec/mocks/3.expecting_messages/negative_message_expectation_spec.rb" />
+        <option value="$PROJECT_DIR$/spec/mocks/5.null_object_doubles/as_null_object_spec.rb" />
+        <option value="$PROJECT_DIR$/spec/mocks/4.partial_test_doubles/partial_double_spec.rb" />
+        <option value="$PROJECT_DIR$/spec/spec_helper.rb" />
+        <option value="$PROJECT_DIR$/spec/mocks/verified_doubles/verified_doubles.rb" />
+        <option value="$PROJECT_DIR$/spec/mocks/7.verified_doubles/verified_doubles.rb" />
+        <option value="$PROJECT_DIR$/spec/mocks/7.verified_doubles/verified_doubles_spec.rb" />
+        <option value="$PROJECT_DIR$/spec/mocks/7.verified_doubles/instance_doubles_spec.rb" />
+        <option value="$PROJECT_DIR$/spec/mocks/7.verified_doubles/2.class_doubles_spec.rb" />
+        <option value="$PROJECT_DIR$/spec/mocks/7.verified_doubles/1.instance_doubles_spec.rb" />
+        <option value="$PROJECT_DIR$/spec/mocks/7.verified_doubles/3.object_doubles_spec.rb" />
+        <option value="$PROJECT_DIR$/spec/mocks/6.spies/1.spy_spec.rb" />
+        <option value="$PROJECT_DIR$/spec/mocks/6.spies/2.partial_double_spy_spec.rb" />
       </list>
     </option>
   </component>
@@ -172,7 +245,28 @@
               <item name="rspec_mocks" type="462c0819:PsiDirectoryNode" />
               <item name="spec" type="462c0819:PsiDirectoryNode" />
               <item name="mocks" type="462c0819:PsiDirectoryNode" />
+              <item name="4.partial_test_doubles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rspec_mocks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rspec_mocks" type="462c0819:PsiDirectoryNode" />
+              <item name="spec" type="462c0819:PsiDirectoryNode" />
+              <item name="mocks" type="462c0819:PsiDirectoryNode" />
               <item name="5.null_object_doubles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rspec_mocks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rspec_mocks" type="462c0819:PsiDirectoryNode" />
+              <item name="spec" type="462c0819:PsiDirectoryNode" />
+              <item name="mocks" type="462c0819:PsiDirectoryNode" />
+              <item name="6.spies" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rspec_mocks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rspec_mocks" type="462c0819:PsiDirectoryNode" />
+              <item name="spec" type="462c0819:PsiDirectoryNode" />
+              <item name="mocks" type="462c0819:PsiDirectoryNode" />
+              <item name="7.verified_doubles" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -188,6 +282,9 @@
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gen06857\projets\rspec_mocks\spec\mocks\7.verified_doubles" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\gen06857\projets\rspec_mocks\spec\mocks\test_doubles" />
       <recent name="C:\Users\gen06857\projets\rspec_mocks\spec\mocks\null_object_doubles" />
@@ -207,8 +304,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="RSpec.Spy constraints: rspec_mocks">
-    <configuration name="Run spec '3.setting_constraints_spec': rspec_mocks" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+  <component name="RunManager" selected="RSpec.A spy x partial double spy as spy: passes when expectations (optionals) are met: rspec_mocks">
+    <configuration name="A spy x partial double double: passes when the expectation is met: rspec_mocks" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
       <module name="rspec_mocks" />
       <predefined_log_file enabled="true" id="RUBY_RSPEC" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
@@ -223,10 +320,10 @@
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/mocks/6.spies/3.setting_constraints_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/mocks/6.spies/2.partial_double_spy_spec.rb" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="'**/*_spec.rb'" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="A spy x partial double double: passes when the expectation is met" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
@@ -237,7 +334,7 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Spy constraints fails when a count constraint is not satisfied: rspec_mocks" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+    <configuration name="A spy x partial double spy as double: passes when the expectation is met: rspec_mocks" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
       <module name="rspec_mocks" />
       <predefined_log_file enabled="true" id="RUBY_RSPEC" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
@@ -252,10 +349,10 @@
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/mocks/6.spies/3.setting_constraints_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/mocks/6.spies/2.partial_double_spy_spec.rb" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="'**/*_spec.rb'" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Spy constraints fails when a count constraint is not satisfied" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="A spy x partial double spy as double: passes when the expectation is met" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
@@ -266,7 +363,7 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Spy constraints fails when an order constraint is not satisifed: rspec_mocks" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+    <configuration name="A spy x partial double spy as spy: passes when expectations (optionals) are met: rspec_mocks" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
       <module name="rspec_mocks" />
       <predefined_log_file enabled="true" id="RUBY_RSPEC" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
@@ -281,10 +378,10 @@
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/mocks/6.spies/3.setting_constraints_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/mocks/6.spies/2.partial_double_spy_spec.rb" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="'**/*_spec.rb'" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Spy constraints fails when an order constraint is not satisifed" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="A spy x partial double spy as spy: passes when expectations (optionals) are met" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
@@ -295,7 +392,7 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Spy constraints passes when an order constraint is satisifed: rspec_mocks" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+    <configuration name="A spy x partial double: rspec_mocks" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
       <module name="rspec_mocks" />
       <predefined_log_file enabled="true" id="RUBY_RSPEC" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
@@ -310,10 +407,10 @@
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/mocks/6.spies/3.setting_constraints_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/mocks/6.spies/2.partial_double_spy_spec.rb" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="'**/*_spec.rb'" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Spy constraints passes when an order constraint is satisifed" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="A spy x partial double" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
@@ -324,7 +421,7 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Spy constraints: rspec_mocks" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+    <configuration name="User#suspend!: rspec_mocks (2)" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
       <module name="rspec_mocks" />
       <predefined_log_file enabled="true" id="RUBY_RSPEC" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
@@ -339,10 +436,10 @@
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/mocks/6.spies/3.setting_constraints_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/mocks/7.verified_doubles/3.object_doubles_spec.rb" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="'**/*_spec.rb'" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Spy constraints" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="User#suspend!" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
@@ -355,11 +452,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="RSpec.Spy constraints: rspec_mocks" />
-        <item itemvalue="RSpec.Run spec '3.setting_constraints_spec': rspec_mocks" />
-        <item itemvalue="RSpec.Spy constraints passes when an order constraint is satisifed: rspec_mocks" />
-        <item itemvalue="RSpec.Spy constraints fails when an order constraint is not satisifed: rspec_mocks" />
-        <item itemvalue="RSpec.Spy constraints fails when a count constraint is not satisfied: rspec_mocks" />
+        <item itemvalue="RSpec.A spy x partial double spy as spy: passes when expectations (optionals) are met: rspec_mocks" />
+        <item itemvalue="RSpec.A spy x partial double: rspec_mocks" />
+        <item itemvalue="RSpec.A spy x partial double spy as double: passes when the expectation is met: rspec_mocks" />
+        <item itemvalue="RSpec.A spy x partial double double: passes when the expectation is met: rspec_mocks" />
+        <item itemvalue="RSpec.User#suspend!: rspec_mocks (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -372,55 +469,55 @@
       <option name="presentableId" value="Default" />
       <updated>1556024392281</updated>
       <workItem from="1556024393464" duration="255000" />
-      <workItem from="1556024651697" duration="8382000" />
+      <workItem from="1556024651697" duration="22746000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Spy_constraints_passes_when_an_order_constraint_is_satisifed__rspec_mocks - 2019.04.23 at 11h 03m 43s.xml">
-      <configuration name="Spy constraints passes when an order constraint is satisifed: rspec_mocks" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="User#suspend!_notifies_the_console__rspec_mocks_(2) - 2019.04.23 at 16h 56m 27s.xml">
+      <configuration name="User#suspend! notifies the console: rspec_mocks (2)" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Spy_constraints_passes_when_an_order_constraint_is_satisifed__rspec_mocks - 2019.04.23 at 11h 03m 54s.xml">
-      <configuration name="Spy constraints passes when an order constraint is satisifed: rspec_mocks" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="User#suspend!_notifies_the_console__rspec_mocks_(2) - 2019.04.23 at 16h 56m 41s.xml">
+      <configuration name="User#suspend! notifies the console: rspec_mocks (2)" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Spy_constraints__rspec_mocks - 2019.04.23 at 11h 04m 10s.xml">
-      <configuration name="Spy constraints: rspec_mocks" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="User#suspend!_notifies_the_console__rspec_mocks_(2) - 2019.04.23 at 16h 57m 24s.xml">
+      <configuration name="User#suspend! notifies the console: rspec_mocks (2)" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Spy_constraints_passes_when_an_order_constraint_is_satisifed__rspec_mocks - 2019.04.23 at 11h 04m 18s.xml">
-      <configuration name="Spy constraints passes when an order constraint is satisifed: rspec_mocks" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="User#suspend!_notifies_the_console__rspec_mocks_(2) - 2019.04.23 at 16h 58m 13s.xml">
+      <configuration name="User#suspend! notifies the console: rspec_mocks (2)" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Spy_constraints_passes_when_an_order_constraint_is_satisifed__rspec_mocks - 2019.04.23 at 11h 04m 34s.xml">
-      <configuration name="Spy constraints passes when an order constraint is satisifed: rspec_mocks" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="User#suspend!__rspec_mocks_(2) - 2019.04.23 at 16h 58m 36s.xml">
+      <configuration name="User#suspend!: rspec_mocks (2)" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Spy_constraints__rspec_mocks - 2019.04.23 at 11h 04m 47s.xml">
-      <configuration name="Spy constraints: rspec_mocks" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="A_spy_x_partial_double__rspec_mocks - 2019.04.24 at 09h 55m 59s.xml">
+      <configuration name="A spy x partial double: rspec_mocks" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Spy_constraints__rspec_mocks - 2019.04.23 at 11h 05m 01s.xml">
-      <configuration name="Spy constraints: rspec_mocks" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="A_spy_x_partial_double_double__passes_when_the_expectation_is_met__rspec_mocks - 2019.04.24 at 09h 56m 15s.xml">
+      <configuration name="A spy x partial double double: passes when the expectation is met: rspec_mocks" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Spy_constraints__rspec_mocks - 2019.04.23 at 11h 09m 12s.xml">
-      <configuration name="Spy constraints: rspec_mocks" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="A_spy_x_partial_double_spy_as_double__passes_when_the_expectation_is_met__rspec_mocks - 2019.04.24 at 09h 58m 45s.xml">
+      <configuration name="A spy x partial double spy as double: passes when the expectation is met: rspec_mocks" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_spec_'3_setting_constraints_spec'__rspec_mocks - 2019.04.23 at 11h 10m 01s.xml">
-      <configuration name="Run spec '3.setting_constraints_spec': rspec_mocks" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="A_spy_x_partial_double__rspec_mocks - 2019.04.24 at 09h 58m 53s.xml">
+      <configuration name="A spy x partial double: rspec_mocks" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Spy_constraints__rspec_mocks - 2019.04.23 at 11h 10m 31s.xml">
-      <configuration name="Spy constraints: rspec_mocks" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="A_spy_x_partial_double_spy_as_spy__passes_when_expectations_(optionals)_are_met__rspec_mocks - 2019.04.24 at 10h 00m 22s.xml">
+      <configuration name="A spy x partial double spy as spy: passes when expectations (optionals) are met: rspec_mocks" configurationId="RSpecRunConfigurationType" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8637000" />
+    <option name="totallyTimeSpent" value="23001000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1911" y="-9" width="1938" height="1098" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25375536" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25375536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32976446" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32976446" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32976446" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3993576" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -440,9 +537,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/spec/mocks/1.test_doubles/double_spec.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -456,13 +550,6 @@
     <entry file="file://$PROJECT_DIR$/bin/htmldiff">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/mocks/3.expecting_messages/negative_message_expectation_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spec/messages_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -472,27 +559,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/bowling.rb">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spec/mocks/2.allowing_messages/receive_messages_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spec/mocks/4.partial_test_doubles/partial_double_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-300">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spec/mocks/1.test_doubles/double_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://C:/dev/rubies/Ruby25/lib/ruby/2.5.0/rinda/rinda.rb">
       <provider selected="true" editor-type-id="text-editor">
@@ -515,55 +581,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/dev/rubies/Ruby25/lib/ruby/gems/2.5.0/gems/rspec-mocks-3.8.0/lib/rspec/mocks/example_methods.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="33" column="10" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spec/mocks/2.allowing_messages/allow_message_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spec/mocks/3.expecting_messages/fulfilled_message_expectation_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spec/mocks/5.null_object_doubles/as_null_object_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spec/mocks/6.spies/2.partial_double_spy_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spec/mocks/6.spies/1.spy_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spec/mocks/6.spies/3.setting_constraints_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -571,6 +588,139 @@
             <caret line="23" selection-start-line="23" selection-end-line="23" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/mocks/5.null_object_doubles/as_null_object_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/mocks/1.test_doubles/double_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/mocks/3.expecting_messages/negative_message_expectation_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="37" column="46" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/dev/rubies/Ruby25/lib/ruby/gems/2.5.0/gems/rspec-support-3.8.0/lib/rspec/support.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="137" selection-start-line="137" selection-end-line="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/dev/rubies/Ruby25/lib/ruby/gems/2.5.0/gems/rspec-mocks-3.8.0/lib/rspec/mocks/verifying_double.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="96" column="10" selection-start-line="96" selection-start-column="10" selection-end-line="96" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/mocks/2.allowing_messages/receive_messages_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/mocks/2.allowing_messages/allow_message_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/mocks/4.partial_test_doubles/partial_double_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/mocks/3.expecting_messages/fulfilled_message_expectation_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/dev/rubies/Ruby25/lib/ruby/gems/2.5.0/gems/rspec-mocks-3.8.0/lib/rspec/mocks/matchers/receive.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/dev/rubies/Ruby25/lib/ruby/gems/2.5.0/gems/rspec-mocks-3.8.0/lib/rspec/mocks/syntax.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="114" column="32" selection-start-line="114" selection-start-column="32" selection-end-line="114" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/mocks/7.verified_doubles/1.instance_doubles_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/mocks/7.verified_doubles/2.class_doubles_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="82" selection-start-column="82" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/mocks/7.verified_doubles/3.object_doubles_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/dev/rubies/Ruby25/lib/ruby/gems/2.5.0/gems/rspec-mocks-3.8.0/lib/rspec/mocks/example_methods.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1568">
+          <caret line="119" column="10" selection-start-line="119" selection-start-column="10" selection-end-line="119" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/mocks/6.spies/3.setting_constraints_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/mocks/6.spies/1.spy_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="72" selection-start-column="72" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/mocks/6.spies/2.partial_double_spy_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>

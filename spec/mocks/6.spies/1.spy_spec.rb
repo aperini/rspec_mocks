@@ -1,5 +1,5 @@
+# A spy is like a loose double that returns itself for undefined methods
 describe 'spy - have_received' do
-
   it 'passes when the message has been received' do
     # given
     invitation = spy('invitation')

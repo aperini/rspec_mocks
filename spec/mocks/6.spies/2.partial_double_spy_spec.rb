@@ -6,8 +6,9 @@ describe 'A spy x partial double' do
     end
   end
 
-  it 'double: passes when the expectation is met' do
+  it 'spy as double: passes when expectations are met' do
     # given
+    # doing this 'allow' turns Invitation into a spy available for inspection
     allow(Invitation).to receive(:deliver)
 
     # when
@@ -15,10 +16,11 @@ describe 'A spy x partial double' do
 
     # then
     # 'have_received' is only applicable to stubbed methods
+    # this expectation is not mandatory just because the method was called
     expect(Invitation).to have_received(:deliver)
   end
 
-  it 'spy: passes when the expectation is met' do
+  it 'spy as spy: passes when expectations are met' do
     # given
     invitation = spy(Invitation)
 
@@ -27,6 +29,7 @@ describe 'A spy x partial double' do
 
     # then
     # 'have_received' is only applicable stubbed methods
+    # this expectation is not mandatory just because the method was called
     expect(invitation).to have_received(:deliver)
   end
 end
